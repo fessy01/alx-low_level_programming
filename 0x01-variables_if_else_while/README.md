@@ -1,10 +1,10 @@
-Variables, if, else and while
+*Variables, if, else and while
 
-Project done during Full Stack Software Engineering studies at Holberton School. It aims to learn about arithmetic operators, relational operators, boolean operators, comments, declaring variables and loops in C language.
+Project done during Full Stack Software Engineering studies at ALX School. It aims to learn about arithmetic operators, relational operators, boolean operators, comments, declaring variables and loops in C language.
 
 
 
-Technologies
+*Technologies
 
 C files are compiled using gcc 9.4.0
 
@@ -12,7 +12,8 @@ C files are written according to the C90 standard
 
 Tested on Ubuntu 20.04 LTS
 
-Files
+
+*Files
 
 All of the following files are programs written in C:
 

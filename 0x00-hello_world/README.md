@@ -1,6 +1,6 @@
  - Hello, World
 
-General
+*General
 
 Why C programming is awesome (don’t forget to tweet today, with the hashtag #cisfun :))
 
@@ -28,7 +28,8 @@ How to find the right header to include in your source code when using a standar
 
 How does the main function influence the return value of the program
 
-Requirements C
+
+*Requirements C
 
 Allowed editors: vi, vim, emacs
 

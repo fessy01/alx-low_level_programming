@@ -1,5 +1,5 @@
 *Debugging
-Project done during Full Stack Software Engineering studies at Holberton School. It aims to learn how to debug in C language.
+Project done during Full Stack Software Engineering studies at ALX School. It aims to learn how to debug in C language.
 
 *Technologies
 C files are compiled using gcc 19.4.0
@@ -14,4 +14,4 @@ Filename	Description
 1-main.c	Fixed program to the infinite loop
 2-largest_number.c	Prints the largest of three integers
 3-print_remaining_days.c	Converts a date to the day of year and determines how many days are left in the year
-holberton.h	Header file
+main.h	Header file
