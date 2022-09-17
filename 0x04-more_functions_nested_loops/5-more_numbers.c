@@ -6,11 +6,6 @@
  * Return: 0
  */
 
-#include "holberton.h"
-/**
- * more_numbers - function that checks for uppercase character
- * Return: 0
- */
 void more_numbers(void)
 {
 
