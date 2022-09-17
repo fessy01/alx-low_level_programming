@@ -4,18 +4,14 @@
  * print_numbers - print the number from 0 to 9
  * Return: 0
  */
-
 void print_numbers(void)
 {
-	char ch;
+	char c = '0';
 
-	ch = '0';
-
-	for (ch <= 9; ch++)
+	while (c <= '9')
 	{
-		_putchar(ch);
-
+		_putchar(c);
+		c++;
 	}
-	_putchar('\n');
-
+_putchar('\n');
 }
